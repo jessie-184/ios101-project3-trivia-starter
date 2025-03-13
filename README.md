@@ -39,11 +39,11 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Building everything from scratch is very challenging for me. I wish I could have more than 1 lab session to get used to building the project from scratch
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Codepath
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
